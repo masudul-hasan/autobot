@@ -50,7 +50,7 @@ Open your favorite Terminal and run these commands.
 
 First Tab:
 ```sh
-$ git clone git@github.com:jiaulislam/AutoBotBMCRemedy.git
+$ git clone git@github.com:masudul-hasan/AutoBotBMCRemedy.git
 ```
 
 Second Tab:
