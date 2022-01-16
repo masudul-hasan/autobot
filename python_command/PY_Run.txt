@@ -1,0 +1,29 @@
+
+Cisco AnyConnect Secure Mobility Client
+
+VPN: 	username : mahiuddin.khan
+	password : w8q4xXAx
+
+1. Run Windows Terminal
+2. Goto AutoBot Folder
+3. Activate Virtual Environment ( ./.venv/scripts/activate )
+4. now run the python application ( python ./autobot.py )
+
+--------------------OLD---------------------------------
+
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+PS C:\Users\MASUD> cd F:\Autobot\
+PS F:\Autobot> .\.venv\scripts\activate
+(.venv) PS F:\Autobot> python .\Autobot.py
+
+----------------NEW-------------------------------------
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+Loading personal and system profiles took 709ms.
+~
+➜cd F:\Autobot\
+.\.venv\scripts\activate
+python .\Autobot.py

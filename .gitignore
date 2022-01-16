@@ -1,0 +1,17 @@
+__pycache__/
+debug.log
+.vscode/
+.idea/
+Lib/
+Scripts/
+pyvenv.cfg
+LinkBudgetDumps/
+test.py
+bin
+lib
+lib64
+share
+*.xlsx
+logs/
+assets/
+report.html

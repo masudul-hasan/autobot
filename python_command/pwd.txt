@@ -1,0 +1,35 @@
+
+BLpi_2000#LOopplil      -- plil
+BLpi_2000#LOopipl       -- ipl
+BLpi_2000#LOoppb        -- pbpib
+BLpi_2000#LOopgrp       -- grp
+BLpi_2000#LOopit        -- it
+BLpi_2000#LOoppservice  -- pservice
+BLpi_2000#LOopinv       -- inv
+
+
+PSMS-- SMS_PL -- ORCLSMS
+192.168.1.75 -- PLIL@sms1
+
+It*R#r@00983
+
+C:\WINDOWS\system32>wmic path softwarelicensingservice get oa3xoriginalproductkey
+OA3xOriginalProductKey
+
+W3NT9-JDD72-6TB2V-72G3R-368MC  10pro
+4J4FN-RFQW6-HFV7J-K6PHC-8XCH2  11pro
+
+
+studentportal.diu.edu.bd/#/dashboard1
+
+
+
+
+
+
+
+
+
+
+
+
